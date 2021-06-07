@@ -16,3 +16,8 @@ This is a virtual reality game which drills a student in grade 4 and below on ba
 5. Double click on the Start Scene to open the game.
 6. Connect Oculus Rift to your computer.
 7. Click on the play button to begin the game.  
+
+# Team Members
+1. Prince Larbi Ampofo
+2. Desmond Ofori Atta
+3. Lincoln Adomako
